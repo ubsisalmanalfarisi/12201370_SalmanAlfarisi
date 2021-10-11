@@ -20,6 +20,6 @@ class Contoh1 extends CI_Controller {
 	 */
 	public function index()
 	{
-		echo "<h1> Ini Halaman Awal</h1>";
+		echo "<h1> Ini Adalah Halaman Awal</h1>";
 	}
 }
