@@ -4,6 +4,7 @@
 </head>
 <body>
 <center>
+<?php echo validation_errors(); ?>
 <form action="<?php echo base_url('matakuliah/cetak') ?>" method="post">
 <table>
 <tr>
